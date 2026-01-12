@@ -1,6 +1,6 @@
 # Ketahanan Infrastruktur Digital di Tengah Kompleksitas Layanan Perbankan
 
-*(Catatan Risiko Infrastruktur & Cyber Resilience – Internal Board)*
+*(Catatan Risiko Infrastruktur & Cyber Resilience)*
 
 Sepanjang **tahun 2025**, Bank mengelola ekosistem teknologi informasi dengan skala dan kompleksitas yang terus meningkat, mencakup **263 aplikasi aktif** yang menopang operasional perbankan secara menyeluruh. Dari jumlah tersebut, **72 aplikasi dikategorikan sangat kritikal**, karena berkaitan langsung dengan transaksi nasabah, sistem inti perbankan, dan keberlangsungan layanan bisnis Bank.
 
