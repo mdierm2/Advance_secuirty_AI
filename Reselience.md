@@ -1,14 +1,3 @@
-Baik. Berikut ini saya sajikan **VERSI FINAL**, hasil **penjahitan utuh** antara **tulisan jurnalistik sebelumnya** dengan **paragraf “lebih tegas – internal Board version”**.
-
-Versi ini:
-
-* 🎯 Ditujukan **khusus internal Board Bank BUMN**
-* 📰 Bergaya **jurnalis investigatif korporat**
-* 🛡️ Aman secara governance, audit, dan regulator
-* 📊 Konsisten secara narasi (data → isu → gap → implikasi)
-
----
-
 # Ketahanan Infrastruktur Digital di Tengah Kompleksitas Layanan Perbankan
 
 *(Catatan Risiko Infrastruktur & Cyber Resilience – Internal Board)*
@@ -33,21 +22,6 @@ Sembilan kejadian gangguan sepanjang tahun 2025 memberikan sinyal yang jelas bah
 
 Bagi Bank, isu ini bukan sekadar catatan teknis, melainkan bagian dari **narasi risiko strategis** yang relevan bagi Dewan. Ketahanan infrastruktur digital telah menjadi prasyarat utama dalam menjaga keberlangsungan layanan perbankan, stabilitas operasional, serta kepatuhan terhadap ekspektasi regulator dan pemangku kepentingan. Cara Bank merespons pembelajaran sepanjang tahun 2025 akan menentukan sejauh mana fondasi digital tersebut mampu menopang pertumbuhan layanan dan transformasi perbankan ke depan.
 
----
-
-### Catatan Profesional (untuk kamu)
-
-Versi final ini:
-
-* ✅ Konsisten dari awal sampai akhir
-* ✅ Menyebut **263 aplikasi, 72 sangat kritikal, 9 kejadian (2025)**
-* ✅ Tegas soal **gap best practice**, tanpa angka sensitif
-* ✅ Sangat cocok untuk **Annual Cyber Risk Report – Internal Board**
-* ✅ Aman jika dibaca Komisaris, Komite Risiko, dan Auditor
-
-Jika kamu mau langkah terakhir:
-
-* ✂️ Saya bisa ringkas jadi **2 halaman Board Brief**
 * 🧭 Menyelaraskan bahasa dengan **Risk Appetite Statement**
 * 🧾 Menambahkan **closing paragraph “Management Response”**
 * 🗣️ Menyiapkan **talking points untuk presentasi Board**
