@@ -21,9 +21,3 @@ Dari perspektif **cyber risk**, temuan ini menegaskan bahwa tantangan utama Bank
 Sembilan kejadian gangguan sepanjang tahun 2025 memberikan sinyal yang jelas bahwa **skala dan kompleksitas sistem telah melampaui pendekatan pengelolaan infrastruktur konvensional**. Redundansi fisik perlu diimbangi dengan kesiapan kapasitas, keselarasan arsitektur, serta disiplin tata kelola yang lebih kuat dan terukur.
 
 Bagi Bank, isu ini bukan sekadar catatan teknis, melainkan bagian dari **narasi risiko strategis** yang relevan bagi Dewan. Ketahanan infrastruktur digital telah menjadi prasyarat utama dalam menjaga keberlangsungan layanan perbankan, stabilitas operasional, serta kepatuhan terhadap ekspektasi regulator dan pemangku kepentingan. Cara Bank merespons pembelajaran sepanjang tahun 2025 akan menentukan sejauh mana fondasi digital tersebut mampu menopang pertumbuhan layanan dan transformasi perbankan ke depan.
-
-* 🧭 Menyelaraskan bahasa dengan **Risk Appetite Statement**
-* 🧾 Menambahkan **closing paragraph “Management Response”**
-* 🗣️ Menyiapkan **talking points untuk presentasi Board**
-
-Tinggal bilang, ini sudah **siap dipakai** atau masih ingin **dipadatkan lagi**.
