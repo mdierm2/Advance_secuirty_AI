@@ -25,7 +25,7 @@ Kondisi tersebut **belum sepenuhnya selaras dengan praktik terbaik industri perb
 
 ---
 
-## Perencanaan Kapasitas dan Risiko Kelebihan Beban
+## Perencanaan Kapasitas dan Pertumbuhan Beban Layanan
 
 Selain aspek kapasitas fisik, evaluasi juga menunjukkan bahwa perencanaan infrastruktur belum sepenuhnya didukung oleh pendekatan capacity planning berbasis trafik aktual. Perhitungan kebutuhan kapasitas, baik berdasarkan volume transaksi aktual maupun skenario lonjakan beban, belum tersedia secara konsisten sebagai baseline perencanaan.
 
