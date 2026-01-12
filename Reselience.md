@@ -25,11 +25,11 @@ Kondisi tersebut **belum sepenuhnya selaras dengan praktik terbaik industri perb
 
 ---
 
-## Perencanaan Kapasitas dan Risiko Saturasi
+## Perencanaan Kapasitas dan Risiko Kelebihan Beban
 
-Selain aspek kapasitas fisik, evaluasi juga menunjukkan bahwa **perencanaan infrastruktur belum sepenuhnya didukung oleh pendekatan capacity planning berbasis trafik aktual**. Perhitungan kebutuhan kapasitas, baik berdasarkan volume transaksi aktual maupun skenario lonjakan beban, **belum tersedia secara konsisten sebagai baseline perencanaan**.
+Selain aspek kapasitas fisik, evaluasi juga menunjukkan bahwa perencanaan infrastruktur belum sepenuhnya didukung oleh pendekatan capacity planning berbasis trafik aktual. Perhitungan kebutuhan kapasitas, baik berdasarkan volume transaksi aktual maupun skenario lonjakan beban, belum tersedia secara konsisten sebagai baseline perencanaan.
 
-Ketiadaan baseline kapasitas yang terukur ini **meningkatkan risiko terjadinya saturasi sumber daya tanpa terdeteksi sejak dini**, sehingga memperbesar potensi gangguan layanan ketika terjadi perubahan kondisi operasional.
+Ketiadaan baseline kapasitas yang terukur ini meningkatkan risiko terjadinya kelebihan beban sumber daya tanpa terdeteksi sejak dini, sehingga memperbesar potensi gangguan layanan ketika terjadi perubahan kondisi operasional.
 
 ---
 
