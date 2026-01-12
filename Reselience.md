@@ -57,4 +57,4 @@ Sebagai pembelajaran strategis dari kejadian sepanjang tahun 2025, penguatan ars
 * **Penguatan perencanaan kapasitas berbasis trafik aktual**, termasuk skenario lonjakan beban.
 * **Penerapan mekanisme monitoring dan peringatan dini yang lebih proaktif** untuk mendukung respons yang tepat waktu.
 
-Langkah-langkah tersebut diharapkan dapat memastikan bahwa arsitektur aktif–aktif **tidak hanya berjalan secara operasional**, tetapi juga memberikan **ketahanan layanan yang memadai** terhadap skenario gangguan dan peningkatan kebutuhan bisnis, sejalan dengan ekspektasi manajemen dan Dewan.
+Langkah-langkah tersebut diharapkan dapat memastikan bahwa arsitektur aktif–aktif **tidak hanya berjalan secara operasional**, tetapi juga memberikan **ketahanan layanan yang memadai** terhadap skenario gangguan dan peningkatan pertumbuhan bisnis di era digital, 
